@@ -33,7 +33,7 @@
 >https://github.com/lzxb/vue2-demo
 
 ###### 2、使用vue2.0+vuex2.0+vue-router2.0重构的卖座网
->http://www.vue-js.com/topic/57fb49b345f2633904fdc70f
+>https://github.com/zhengguorong/maizuo
 
 ###### 3、vue2版cnode社区
 >http://www.iamsuperman.cn/2016/12/18/vue/vue2.0-douban-movie/
@@ -57,4 +57,4 @@
 >https://shimo.im/doc/LkpdnWxM1j40BDJj/
 
 ### Vue全家桶已上线项目：
-https://m.baijindai.com/#/
+>[互联网金融平台-百金贷](https://m.baijindai.com/#/)
