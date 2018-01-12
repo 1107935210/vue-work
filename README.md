@@ -27,3 +27,31 @@
 >https://www.awesomes.cn/repo/mzabriskie/axios
 
 >https://github.com/mzabriskie/axios
+
+### 参考文档：
+###### 1、从零构建vue2 + vue-router + vuex 开发环境到入门，实现基本的登录退出功能 
+>https://github.com/lzxb/vue2-demo
+
+###### 2、使用vue2.0+vuex2.0+vue-router2.0重构的卖座网
+>http://www.vue-js.com/topic/57fb49b345f2633904fdc70f
+
+###### 3、vue2版cnode社区
+>http://www.iamsuperman.cn/2016/12/18/vue/vue2.0-douban-movie/
+
+###### 4、基于Vue2.0的知乎日报单页应用
+>https://github.com/walleeeee/daily-zhihu
+
+###### 5、到底vuex是什么？
+>https://segmentfault.com/a/1190000007516967
+
+###### 6、Vue 全家桶 + axios 前端实现登录拦截、登出、拦截器等功能 
+>https://github.com/superman66/vue-axios-github
+
+###### 7.vue-cli proxyTable 解决开发环境的跨域问题
+>http://www.jianshu.com/p/95b2caf7e0da
+
+###### 8、vue开源项目库
+>https://github.com/opendigg/awesome-github-vue
+
+###### 9、VUE优秀UI组件库合集
+>https://shimo.im/doc/LkpdnWxM1j40BDJj/
