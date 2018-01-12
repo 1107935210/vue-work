@@ -55,3 +55,6 @@
 
 ###### 9、VUE优秀UI组件库合集
 >https://shimo.im/doc/LkpdnWxM1j40BDJj/
+
+### Vue全家桶已上线项目：
+https://m.baijindai.com/#/
